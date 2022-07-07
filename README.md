@@ -1,2 +1,2 @@
-'Esto es un texto en la rama main.'
+'Esto es una modificación del texto sobre la rama main.'
 
