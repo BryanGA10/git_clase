@@ -1,1 +1,2 @@
-# git_clase
+'Esto es un texto en la rama main.'
+
